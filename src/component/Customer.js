@@ -1,6 +1,6 @@
 import React from 'react';
 
-// 리액트의 컴포넌트는 일종의 라이브러리이자 클래스
+// 由ъ븸�듃�쓽 而댄룷�꼳�듃�뒗 �씪醫낆쓽 �씪�씠釉뚮윭由ъ씠�옄 �겢�옒�뒪
 class Customer extends React.Component {
     render() {
         return(
